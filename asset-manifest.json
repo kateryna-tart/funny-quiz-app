@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/funny-quiz-app/static/css/main.f0ac30fe.chunk.css",
+    "main.js": "/funny-quiz-app/static/js/main.f572d708.chunk.js",
+    "main.js.map": "/funny-quiz-app/static/js/main.f572d708.chunk.js.map",
+    "runtime-main.js": "/funny-quiz-app/static/js/runtime-main.47439051.js",
+    "runtime-main.js.map": "/funny-quiz-app/static/js/runtime-main.47439051.js.map",
+    "static/js/2.1d477258.chunk.js": "/funny-quiz-app/static/js/2.1d477258.chunk.js",
+    "static/js/2.1d477258.chunk.js.map": "/funny-quiz-app/static/js/2.1d477258.chunk.js.map",
+    "index.html": "/funny-quiz-app/index.html",
+    "precache-manifest.98d1530ee348b3af4b12476af5bdca86.js": "/funny-quiz-app/precache-manifest.98d1530ee348b3af4b12476af5bdca86.js",
+    "service-worker.js": "/funny-quiz-app/service-worker.js",
+    "static/css/main.f0ac30fe.chunk.css.map": "/funny-quiz-app/static/css/main.f0ac30fe.chunk.css.map",
+    "static/js/2.1d477258.chunk.js.LICENSE.txt": "/funny-quiz-app/static/js/2.1d477258.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47439051.js",
+    "static/js/2.1d477258.chunk.js",
+    "static/css/main.f0ac30fe.chunk.css",
+    "static/js/main.f572d708.chunk.js"
+  ]
+}
